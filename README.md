@@ -27,7 +27,7 @@ This project provisions a scalable, highly available two-tier application archit
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Kareem-Ataam/ITI-Terraform-Final-Project.git
 cd ITI-Terraform-Final-Project
 ```
 
