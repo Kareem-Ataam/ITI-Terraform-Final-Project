@@ -103,5 +103,5 @@ We will working on a workspace other than the default one:
 
 ## Testing and Verification:
 
-After the infrastructure is provisioned and our application is up and running we can it using the DNS name from the browser:
+After the infrastructure is provisioned and our application is up and running we can access it using the DNS name from the browser:
 ![](./images/final_take.png)
